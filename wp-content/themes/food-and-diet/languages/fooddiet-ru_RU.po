@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fooddiet\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-02 13:09+0100\n"
+"PO-Revision-Date: 2013-06-02 13:10+0100\n"
+"Last-Translator: Erick Olivera <olivera.erick@gmail.com>\n"
+"Language-Team: CodePeople <info@hotdreamweaver.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: d:\\02_www\\www.wp_theme.com\\wp-content\\themes\\fooddiet\\\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SearchPath-0: d:\\02_www\\www.wp_theme.com\\wp-content\\themes\\fooddiet\n"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/404.php:18
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Неприятная новость..."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/404.php:22
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/archive.php:20
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Архив за день: %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/archive.php:22
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Архив за месяц: %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/archive.php:24
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Архив за год: %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/archive.php:26
+msgid "Archives"
+msgstr "Архив"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/author.php:31
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Архив автора: %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/author.php:52
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:53
+#, php-format
+msgid "About %s"
+msgstr "Об авторе %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/category.php:20
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Архив рубрики: %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/comments.php:37
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/comments.php:38
+msgid "<span class=\"meta-nav\">&lsaquo;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&lsaquo;</span> Предыдущие комментарии"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/comments.php:39
+msgid "Newer Comments <span class=\"meta-nav\">&rsaquo;</span>"
+msgstr "Следующие комментарии <span class=\"meta-nav\">&rsaquo;</span>"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/comments.php:48
+msgid "Comments are closed."
+msgstr "Комментарии запрещены."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-aside.php:14
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-aside.php:21
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-image.php:17
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-link.php:19
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-quote.php:18
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-status.php:16
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:23
+#, php-format
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка: %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-aside.php:16
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-image.php:13
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-link.php:15
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-quote.php:14
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-status.php:22
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:39
+msgid "Continue reading <span class=\"meta-nav\">&hellip;</span>"
+msgstr "Читать далее <span class=\"meta-nav\">&hellip;</span>"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-aside.php:24
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-image.php:23
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-link.php:22
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-quote.php:21
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-status.php:27
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:28
+msgid "Leave a reply"
+msgstr "Добавить комментарий"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-aside.php:24
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-image.php:23
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-link.php:22
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-quote.php:21
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-status.php:27
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:28
+msgid "1 Reply"
+msgstr "1 комментарий"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-aside.php:24
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-image.php:23
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-link.php:22
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-quote.php:21
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-status.php:27
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:28
+msgid "% Replies"
+msgstr "Комментарии ( % )"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-aside.php:27
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-image.php:26
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-link.php:25
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-page.php:21
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-quote.php:24
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-status.php:30
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:46
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:311
+msgid "Edit"
+msgstr "Изменить"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-link.php:13
+msgid "Link"
+msgstr "Ссылка"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-none.php:18
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Извините, запрошенная вами информация не найдена. Попробуйте найти нужную запись с помощью поиска."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-page.php:19
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:40
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:14
+msgid "Featured post"
+msgstr "Избранная запись"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:57
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Посмотреть все записи автора %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:50
+msgid "Primary Nav Menu"
+msgstr "Основное меню навигации"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:141
+msgid "Main Sidebar"
+msgstr "Главная боковая колонка"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:143
+msgid "Appears on posts and pages"
+msgstr "Показывается в записях и на страницах"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:151
+msgid "Footer Widget Area"
+msgstr "Область виджетов для подвала вашего сайта"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:153
+msgid "Appears on website footer"
+msgstr "Показывается в подвале вашего сайта"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:161
+msgid "Second Footer Widget Area"
+msgstr "Вторая область виджетов для подвала вашего сайта"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:163
+msgid "Appears as secondary widget area on website footer"
+msgstr "Показывается как дополнительная область виджетов для подвала вашего сайта"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:214
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:215
+msgid "<span class=\"meta-nav\">&lsaquo;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&lsaquo;</span> Предыдущие записи"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:216
+msgid "Newer posts <span class=\"meta-nav\">&rsaquo;</span>"
+msgstr "Следующие записи <span class=\"meta-nav\">&rsaquo;</span>"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:228
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:231
+msgid ", "
+msgstr ","
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:242
+#, php-format
+msgid "View all posts by %s"
+msgstr "Посмотреть все записи автора %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:248
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Запись опубликована в рубрике %1$s с метками %2$s, %3$s, <span class=\"by-author\"> автором %4$s</span>."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:250
+#, php-format
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Запись опубликована в рубрике %1$s, %3$s,<span class=\"by-author\"> автором %4$s</span>."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:252
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Запись опубликована  %3$s,<span class=\"by-author\">  автором %4$s</span>."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:279
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:279
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:294
+msgid "Post author"
+msgstr "Автор записи"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:300
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:306
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:315
+msgid "Reply"
+msgstr "Ответить"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:369
+msgid "Food Diet Theme Advanced Customization"
+msgstr "Специальные настройки темы Питание и Диета"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/header.php:40
+msgid "Menu"
+msgstr "Меню"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/header.php:41
+msgid "Skip to content"
+msgstr "Перейти к  содержимому"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/image.php:25
+#, php-format
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Опубликовано </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> в <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> в <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/image.php:40
+msgid "<span class=\"meta-nav\">&lsaquo;</span> Previous"
+msgstr "<span class=\"meta-nav\">&lsaquo;</span> Предыдущее"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/image.php:41
+msgid "Next <span class=\"meta-nav\">&rsaquo;</span>"
+msgstr "Следующее <span class=\"meta-nav\">&rsaquo;</span>"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/index.php:40
+msgid "No posts to display"
+msgstr "Нет записей для отображения"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/index.php:44
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Готовы опубликовать Вашу первую запись? <a href=\"%s\">Начните здесь</a>."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/search.php:39
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/tag.php:20
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Архив метки: %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:45
+msgid "Update Settings"
+msgstr "Обновить установки"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:52
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:127
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:251
+msgid "Settings Updated"
+msgstr "Настройки Обновлено"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:66
+msgid "Website Logo"
+msgstr "Логотип  сайта"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:70
+msgid "Select the website logo"
+msgstr "Выбрать логотип  сайта"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:85
+msgid "Select Layout"
+msgstr "Выбрать разметку"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:108
+msgid "Copyright"
+msgstr "Авторские права"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:112
+msgid "Copyright text"
+msgstr "Текст авторских прав"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:116
+msgid "Copyright URL"
+msgstr "УРЛ авторских прав"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:156
+msgid "Title & Tagline Appearance"
+msgstr "Изображение названия и лозунга"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:160
+msgid "Animate title"
+msgstr "Анимировать заголовок"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:162
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:176
+msgid "effect"
+msgstr "эффект"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:174
+msgid "Animate tagline"
+msgstr "Анимировать лозунг"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:194
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:198
+msgid "Select an image for header's background"
+msgstr "Выбрать картинку для фона заголовка"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:205
+msgid "Repeat"
+msgstr "Повторить"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:218
+msgid "Align image horizontally at"
+msgstr "Выровнять картинку горизонтально"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:231
+msgid "Align image vertically at"
+msgstr "Выровнять картинку вертикально"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:269
+msgid "Ads"
+msgstr "объявления"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:273
+msgid "Activated"
+msgstr "активированный"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:277
+#, fuzzy
+msgid "Select the Ads image"
+msgstr "Выбрать логотип  сайта"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:281
+#, fuzzy
+msgid "Select square images for better results"
+msgstr "Выбрать картинку для фона заголовка"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:285
+msgid "Enter Ads URL"
+msgstr "Введите URL объявления"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:291
+msgid "Target"
+msgstr ""
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:300
+#, fuzzy
+msgid "Select the Ads audio"
+msgstr "Выбрать логотип  сайта"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:307
+msgid "Open Ads automatically in"
+msgstr "Откройте объявления автоматически в"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:309
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:315
+msgid "seconds"
+msgstr "секунды"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:313
+msgid "Close Ads automatically in"
+msgstr "Закрыть объявления автоматически в"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/theme_options.php:61
+msgid "Theme developed by CodePeople"
+msgstr "Разработчик темы: CodePeople"
+

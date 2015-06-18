@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fooddiet\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-02 13:01+0100\n"
+"PO-Revision-Date: 2013-06-02 13:04+0100\n"
+"Last-Translator: Erick Olivera <olivera.erick@gmail.com>\n"
+"Language-Team: CodePeople <info@hotdreamweaver.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: d:\\02_www\\www.wp_theme.com\\wp-content\\themes\\fooddiet\\\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SearchPath-0: d:\\02_www\\www.wp_theme.com\\wp-content\\themes\\fooddiet\n"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/404.php:18
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Helaas, hier ging iets mis."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/404.php:22
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunnen vinden waar je naar zoekt. Misschien kun je er naar zoeken."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/archive.php:20
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Dagelijks archief: %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/archive.php:22
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Maandelijks archief: %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/archive.php:24
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Jaarlijks archief: %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/archive.php:26
+msgid "Archives"
+msgstr "Archieven"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/author.php:31
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Auteursarchief: %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/author.php:52
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:53
+#, php-format
+msgid "About %s"
+msgstr "Over %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/category.php:20
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Categorie archief: %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/comments.php:37
+msgid "Comment navigation"
+msgstr "Reactienavigatie"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/comments.php:38
+msgid "<span class=\"meta-nav\">&lsaquo;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&lsaquo;</span> Oudere reacties"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/comments.php:39
+msgid "Newer Comments <span class=\"meta-nav\">&rsaquo;</span>"
+msgstr "Nieuwere reacties <span class=\"meta-nav\">&rsaquo;</span>"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/comments.php:48
+msgid "Comments are closed."
+msgstr "Reacties plaatsen niet mogelijk."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-aside.php:14
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-aside.php:21
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-image.php:17
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-link.php:19
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-quote.php:18
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-status.php:16
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:23
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink naar %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-aside.php:16
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-image.php:13
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-link.php:15
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-quote.php:14
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-status.php:22
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:39
+msgid "Continue reading <span class=\"meta-nav\">&hellip;</span>"
+msgstr "Lees verder <span class=\"meta-nav\">&hellip;</span>"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-aside.php:24
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-image.php:23
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-link.php:22
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-quote.php:21
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-status.php:27
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:28
+msgid "Leave a reply"
+msgstr "Een reactie plaatsen"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-aside.php:24
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-image.php:23
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-link.php:22
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-quote.php:21
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-status.php:27
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:28
+msgid "1 Reply"
+msgstr "1 reactie"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-aside.php:24
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-image.php:23
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-link.php:22
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-quote.php:21
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-status.php:27
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:28
+msgid "% Replies"
+msgstr "% Reacties"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-aside.php:27
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-image.php:26
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-link.php:25
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-page.php:21
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-quote.php:24
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-status.php:30
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:46
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:311
+msgid "Edit"
+msgstr "Bewerken"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-link.php:13
+msgid "Link"
+msgstr "Link"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-none.php:14
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-none.php:18
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Helaas, er zijn geen resultaten gevonden. Misschien helpt zoeken je om een gerelateerd bericht te vinden."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content-page.php:19
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:40
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:14
+msgid "Featured post"
+msgstr "Uitgelicht bericht"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/content.php:57
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Bekijk alle berichten van %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:50
+msgid "Primary Nav Menu"
+msgstr "Primair menu"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:141
+msgid "Main Sidebar"
+msgstr "Hoofd sidebar"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:143
+msgid "Appears on posts and pages"
+msgstr "Verschijnt op berichten en pagina's"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:151
+msgid "Footer Widget Area"
+msgstr "Voettekst widgetgebied"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:153
+msgid "Appears on website footer"
+msgstr "Verschijnt in de voettekst "
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:161
+msgid "Second Footer Widget Area"
+msgstr "De tweede voettekst widgetgebied"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:163
+msgid "Appears as secondary widget area on website footer"
+msgstr "Verschijnt als de tweede voettekst widgetgebied"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:214
+msgid "Post navigation"
+msgstr "Berichtnavigatie"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:215
+msgid "<span class=\"meta-nav\">&lsaquo;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&lsaquo;</span> Oudere berichten"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:216
+msgid "Newer posts <span class=\"meta-nav\">&rsaquo;</span>"
+msgstr "Nieuwere berichten <span class=\"meta-nav\">&rsaquo;</span>"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:228
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:231
+msgid ", "
+msgstr ","
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:242
+#, php-format
+msgid "View all posts by %s"
+msgstr "Alle berichten tonen van %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:248
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Dit bericht werd geplaatst in %1$s en getagged met %2$s op %3$s <span class=\"by-author\">door %4$s</span>."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:250
+#, php-format
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Dit bericht werd geplaatst in %1$s op %3$s <span class=\"by-author\">door %4$s</span>."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:252
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Dit bericht werd geplaatst op %3$s <span class=\"by-author\">door %4$s</span>."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:279
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:279
+msgid "(Edit)"
+msgstr "(Bewerken)"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:294
+msgid "Post author"
+msgstr "Bericht auteur"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:300
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s om %2$s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:306
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is in afwachting van moderatie."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:315
+msgid "Reply"
+msgstr "Reageren"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/functions.php:369
+msgid "Food Diet Theme Advanced Customization"
+msgstr "Geavanceerde opties van het thema Food Diet"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/header.php:40
+msgid "Menu"
+msgstr "Menu"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/header.php:41
+msgid "Skip to content"
+msgstr "Spring naar de inhoud"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/image.php:25
+#, php-format
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Dit bericht werd geplaatst in  </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> en getagged met <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> op <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/image.php:40
+msgid "<span class=\"meta-nav\">&lsaquo;</span> Previous"
+msgstr "<span class=\"meta-nav\">&lsaquo;</span> Vorige"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/image.php:41
+msgid "Next <span class=\"meta-nav\">&rsaquo;</span>"
+msgstr "Volgende <span class=\"meta-nav\">&rsaquo;</span>"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/index.php:40
+msgid "No posts to display"
+msgstr "Geen berichten om te tonen"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/index.php:44
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%s\">Hier kan je starten</a>."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/search.php:39
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Helaas, geen resultaten voldeden aan de zoekcriteria. Probeer het opnieuw met andere zoekwoorden."
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/tag.php:20
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Tagarchief: %s"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:45
+msgid "Update Settings"
+msgstr "Instellingen bijwerken"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:52
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:127
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:251
+msgid "Settings Updated"
+msgstr "Instellingen Bijgewerkt"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:66
+msgid "Website Logo"
+msgstr "Logo website"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:70
+msgid "Select the website logo"
+msgstr "Kies logo van de website"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:85
+msgid "Select Layout"
+msgstr "Kies layout van de website"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:108
+msgid "Copyright"
+msgstr "Auteursrecht"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:112
+msgid "Copyright text"
+msgstr "Auteursrechtstekst"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:116
+msgid "Copyright URL"
+msgstr "URL van de auteursrechtstekst"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:156
+msgid "Title & Tagline Appearance"
+msgstr "Uiterlijk van de titel en de slogan"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:160
+msgid "Animate title"
+msgstr "Titel animeren"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:162
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:176
+msgid "effect"
+msgstr "effect"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:174
+msgid "Animate tagline"
+msgstr "Slogan animeren"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:194
+msgid "Background Image"
+msgstr "Kies de achtergrondafbeelding"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:198
+msgid "Select an image for header's background"
+msgstr "Kies de achtergrondafbeelding voor de header"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:205
+msgid "Repeat"
+msgstr "Herhalen"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:218
+msgid "Align image horizontally at"
+msgstr "Het beeld horizontaal uitlijnen"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:231
+msgid "Align image vertically at"
+msgstr "Het beeld verticaal uitlijnen"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:269
+msgid "Ads"
+msgstr "Advertenties"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:273
+msgid "Activated"
+msgstr "Geactiveerd"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:277
+#, fuzzy
+msgid "Select the Ads image"
+msgstr "Kies logo van de website"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:281
+#, fuzzy
+msgid "Select square images for better results"
+msgstr "Kies de achtergrondafbeelding voor de header"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:285
+msgid "Enter Ads URL"
+msgstr "Voer advertenties URL"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:291
+msgid "Target"
+msgstr ""
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:300
+#, fuzzy
+msgid "Select the Ads audio"
+msgstr "Kies logo van de website"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:307
+msgid "Open Ads automatically in"
+msgstr "Open advertenties automatisch in"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:309
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:315
+msgid "seconds"
+msgstr "seconden"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/custom-theme.php:313
+msgid "Close Ads automatically in"
+msgstr "Sluit advertenties automatisch in"
+
+#: d:\02_www\www.wp_theme.com\wp-content\themes\fooddiet/inc/theme_options.php:61
+msgid "Theme developed by CodePeople"
+msgstr "Thema ontwikkeld door CodePeople"
+
