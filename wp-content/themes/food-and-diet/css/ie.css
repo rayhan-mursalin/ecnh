@@ -1,0 +1,9 @@
+/*
+Styles for older IE versions (previous to IE9).
+*/
+
+.menu-toggle{ display: none; }
+.site-content{float: left; width: 65.1042%;}
+.widget-area {float: right; width: 26.041666667%;}
+#masthead h1{visibility: visible !important;}
+#masthead h2{visibility: visible !important;}
