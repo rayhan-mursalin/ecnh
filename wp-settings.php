@@ -31,7 +31,7 @@ require( ABSPATH . WPINC . '/version.php' );
 
 // Set initial default constants including WP_MEMORY_LIMIT, WP_MAX_MEMORY_LIMIT, WP_DEBUG, WP_CONTENT_DIR and WP_CACHE.
 
-define('WP_MEMORY_LIMIT’, ‘64M’);
+define('WP_MEMORY_LIMIT', '64M');
 
 
 wp_initial_constants();
