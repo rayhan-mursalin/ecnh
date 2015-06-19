@@ -30,6 +30,10 @@ global $wp_version, $wp_db_version, $tinymce_version, $required_php_version, $re
 require( ABSPATH . WPINC . '/version.php' );
 
 // Set initial default constants including WP_MEMORY_LIMIT, WP_MAX_MEMORY_LIMIT, WP_DEBUG, WP_CONTENT_DIR and WP_CACHE.
+
+define('WP_MEMORY_LIMIT’, ‘64M’);
+
+
 wp_initial_constants();
 
 // Check for the required PHP version and for the MySQL extension or a database drop-in.
