@@ -16,10 +16,10 @@
 function dino_theme_setup(){
 	global $content_width;
 	if(!isset($content_width)){$content_width = 640;}
-	
+
 	add_theme_support( 'automatic-feed-links' );
 	add_theme_support( 'post-thumbnails' );
-	
+
 	load_theme_textdomain('dino',get_template_directory().'/languages');
 }
 add_action('after_setup_theme','dino_theme_setup');
@@ -37,7 +37,7 @@ function dino_theme_scripts(){
     } else {
         wp_enqueue_style( 'google-body-fonts-default', 'http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic');
     }
-	
+
 	wp_enqueue_script('base',get_template_directory_uri().'/js/base.js',array('jquery'),'1.0',true);
 	if(is_singular()&&comments_open()&&get_option('thread_comments')){wp_enqueue_script('comment-reply');}
 }
@@ -96,6 +96,10 @@ add_action('wp_head', 'dino_theme_styles', 11);
 /**
  * Custom functions.
  */
+@ini_set( ‘upload_max_size’ , ‘1024M’ );
+@ini_set( ‘post_max_size’, ‘1024M’);
+@ini_set( ‘max_execution_time’, ‘1000’ );
+
 require get_template_directory() . '/fun/base.php';
 require get_template_directory().'/set/settings.php';
 ?>
